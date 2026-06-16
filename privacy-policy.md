@@ -1,3 +1,143 @@
+(English is below)
+
+# Gizlilik Politikası
+
+**MindMaster – Yapay Zekâ Destekli Öğrenme ve Ezber Koçu**
+
+*Son güncelleme: Haziran 2026*
+
+---
+
+## 1. Giriş
+
+MindMaster'a ("biz", "bize", "bizim") hoş geldiniz. Bu Gizlilik Politikası, mobil uygulamamızı ("Uygulama") kullandığınızda bilgilerinizi nasıl topladığımızı, kullandığımızı, paylaştığımızı ve koruduğumuzu açıklar. Lütfen bu politikayı dikkatlice okuyunuz. Şartlarını kabul etmiyorsanız uygulamayı kullanmayı bırakınız.
+
+---
+
+## 2. Topladığımız Bilgiler
+
+### 2.1 Doğrudan Sağladığınız Bilgiler
+
+* **Hesap Bilgileri:** Kayıt olduğunuzda e-posta adresinizi ve hashlenmiş şifrenizi toplarız.
+* **Oluşturduğunuz İçerikler:** Çalışma konuları, quiz konuları, proje isimleri ve öğrenme içerikleri oluşturmak amacıyla uygulamaya girdiğiniz metinler.
+* **İletişim Bilgileri:** Destek almak için bizimle iletişime geçerseniz, bu yazışmaların kayıtlarını saklayabiliriz.
+
+### 2.2 Otomatik Olarak Toplanan Bilgiler
+
+* **Kullanım Verileri:** Ziyaret edilen ekranlar, kullanılan özellikler, quiz puanları, seriler (streak), öğrenme ilerlemesi ve uygulama ile etkileşim şekliniz.
+* **Cihaz Bilgileri:** Cihaz türü, işletim sistemi sürümü ve hata/çökme kayıtları.
+* **Token ve Abonelik Durumu:** Uygulama içi token bakiyeniz, abonelik seviyeniz (Ücretsiz, Premium) ve satın alma geçmişiniz.
+
+### 2.3 Toplamadığımız Bilgiler
+
+* Hassas konum bilginizi toplamayız.
+* Açık izniniz olmadan kişilerinize, fotoğraflarınıza veya mikrofonunuza erişmeyiz.
+* Kişisel verilerinizi üçüncü taraflara satmayız.
+
+---
+
+## 3. Bilgilerinizi Nasıl Kullanıyoruz
+
+Topladığımız bilgileri aşağıdaki amaçlarla kullanırız:
+
+* Hesabınızı oluşturmak ve yönetmek.
+* Kişiselleştirilmiş yapay zekâ destekli çalışma içerikleri ve quizler üretmek.
+* Öğrenme ilerlemenizi, serilerinizi ve başarı puanlarınızı takip etmek.
+* Uygulama içi satın alımları ve abonelik haklarını yönetmek.
+* Yalnızca izin vermeniz halinde çalışma hatırlatmaları ve önemli bildirimler göndermek.
+* Uygulamanın özelliklerini, performansını ve içerik kalitesini geliştirmek.
+* Destek taleplerinizi yanıtlamak.
+* Yasal yükümlülüklerimizi yerine getirmek.
+
+---
+
+## 4. Bilgilerinizin Paylaşılması
+
+Kişisel bilgilerinizi satmayız, kiralamayız veya ticari amaçlarla paylaşmayız.
+
+### 4.1 Hizmet Sağlayıcılar
+
+* **OpenAI dahil Yapay Zekâ İçerik Sağlayıcıları:** Çalışma konusu girdileriniz; quiz soruları, çalışma planları, özetler, hafıza kartları ve diğer öğrenme içeriklerini oluşturmak amacıyla OpenAI API'sine ve diğer üçüncü taraf yapay zekâ sağlayıcılarına gönderilebilir. Bu sağlayıcılar verileri kendi gizlilik politikalarına göre işler. Adınızı veya e-posta adresinizi yapay zekâ sağlayıcılarına göndermeyiz. Yapay zekâ tarafından üretilen içerikler hatalar, eksiklikler veya yanlış bilgiler içerebilir.
+* **Expo / Expo Push Notifications:** İsteğe bağlı çalışma hatırlatmalarını göndermek için Expo bildirim altyapısını kullanırız.
+* **RevenueCat:** Abonelik ve token satın alma işlemlerini yönetmek için RevenueCat kullanırız.
+* **Apple App Store / Google Play Store:** Uygulama içi ödeme işlemleri Apple ve Google tarafından gerçekleştirilir. Tam ödeme kartı bilgilerinize erişmeyiz.
+
+### 4.2 Yasal Gereklilikler
+
+Yasalar, mahkeme kararları veya yetkili kamu kurumları tarafından talep edilmesi halinde bilgilerinizi paylaşabiliriz.
+
+---
+
+## 5. Veri Saklama
+
+* Hesabınız ve ilişkili verileriniz, hesabınız aktif olduğu sürece saklanır.
+* Tüm verilerinizi istediğiniz zaman **Ayarlar → Tehlikeli Bölge → Tüm Verilerimi Sil** seçeneğiyle kalıcı olarak silebilirsiniz.
+* Silme işlemi sonrasında verileriniz 30 gün içerisinde aktif veritabanlarımızdan kaldırılır.
+
+---
+
+## 6. Güvenlik
+
+Endüstri standartlarında güvenlik önlemleri uygularız:
+
+* Bcrypt şifre hashleme.
+* Veri aktarımı sırasında HTTPS/TLS şifrelemesi.
+* Kullanıcı verilerine erişimi sınırlandıran erişim kontrolleri.
+
+Bununla birlikte hiçbir elektronik aktarım veya depolama yöntemi %100 güvenli değildir.
+
+---
+
+## 7. Çocukların Gizliliği
+
+MindMaster, 13 yaşın altındaki çocuklara yönelik değildir. 13 yaşın altındaki çocuklardan bilerek kişisel veri toplamıyoruz. Böyle bir durumdan haberdar olursanız bizimle iletişime geçiniz; ilgili verileri derhal sileriz.
+
+---
+
+## 8. Haklarınız
+
+Bulunduğunuz ülkeye bağlı olarak aşağıdaki haklara sahip olabilirsiniz:
+
+* Hakkınızda tuttuğumuz verilere erişme.
+* Hatalı verilerin düzeltilmesini isteme.
+* Uygulama içindeki veri silme özelliği ile hesabınızı ve ilişkili verilerinizi silme.
+* Gereksiz bildirimlerden çıkış yapma.
+* Verilerinizi makine tarafından okunabilir formatta talep etme.
+
+Bu hakları kullanmak için aşağıdaki iletişim adresinden bize ulaşabilirsiniz.
+
+---
+
+## 9. Push Bildirimleri
+
+Push bildirimleri yalnızca açık izin vermeniz halinde gönderilir. Bildirimleri istediğiniz zaman **Ayarlar → Bildirimler** bölümünden veya cihazınızın sistem ayarlarından kapatabilirsiniz.
+
+---
+
+## 10. Üçüncü Taraf Bağlantılar
+
+Uygulama üçüncü taraf web sitelerine veya hizmetlere bağlantılar içerebilir. Bu hizmetlerin gizlilik uygulamalarından sorumlu değiliz.
+
+---
+
+## 11. Gizlilik Politikasındaki Değişiklikler
+
+Bu Gizlilik Politikasını zaman zaman güncelleyebiliriz. Güncelleme yapıldığında sayfanın üst kısmındaki "Son güncelleme" tarihi değiştirilecektir. Politikayı düzenli olarak gözden geçirmenizi öneririz. Değişikliklerden sonra uygulamayı kullanmaya devam etmeniz güncellenmiş şartları kabul ettiğiniz anlamına gelir.
+
+---
+
+## 12. İletişim
+
+Bu Gizlilik Politikası hakkında sorularınız varsa bizimle iletişime geçebilirsiniz:
+
+E-posta: [zihinkocu.mm@gmail.com](mailto:zihinkocu.mm@gmail.com)
+
+---
+
+*Bu Gizlilik Politikası Haziran 2026 itibarıyla yürürlüğe girmiştir.*
+
+
+
 # Privacy Policy
 
 **MindMaster – AI Learning & Memorization Coach**
