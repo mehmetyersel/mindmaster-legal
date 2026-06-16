@@ -1,3 +1,185 @@
+(English is below)
+
+# Kullanım Şartları
+
+**MindMaster – Yapay Zekâ Destekli Öğrenme ve Ezber Koçu**
+
+*Son güncelleme: Haziran 2026*
+
+---
+
+## 1. Şartların Kabulü
+
+MindMaster mobil uygulamasını ("Uygulama") indirerek, kurarak veya kullanarak bu Kullanım Şartları'nı ("Şartlar") kabul etmiş sayılırsınız. Bu Şartları kabul etmiyorsanız uygulamayı kullanmayınız.
+
+Bu Şartları herhangi bir zamanda güncelleme hakkını saklı tutarız. Değişikliklerden sonra uygulamayı kullanmaya devam etmeniz güncellenmiş şartları kabul ettiğiniz anlamına gelir.
+
+---
+
+## 2. Hizmetin Tanımı
+
+MindMaster, kullanıcıların kişiselleştirilmiş çalışma materyalleri oluşturmasına, uyarlanabilir quizler çözmesine ve öğrenme ilerlemesini takip etmesine yardımcı olan yapay zekâ destekli bir öğrenme ve ezber platformudur.
+
+Uygulama, sağladığınız konulara dayalı eğitim içerikleri oluşturmak için OpenAI API'si dahil olmak üzere yapay zekâ teknolojilerinden yararlanır.
+
+---
+
+## 3. Kullanım Uygunluğu
+
+Uygulamayı kullanabilmek için en az 13 yaşında olmanız gerekir.
+
+Uygulamayı kullanarak bu şartı karşıladığınızı beyan etmiş olursunuz.
+
+18 yaşından küçükseniz, ebeveyninizin veya yasal vasinizin onayını aldığınızı kabul etmiş sayılırsınız.
+
+---
+
+## 4. Hesap Oluşturma
+
+* Uygulamayı kullanabilmek için geçerli bir e-posta adresi ve şifre oluşturmanız gerekir.
+* Hesap bilgilerinizin gizliliğini korumaktan siz sorumlusunuz.
+* Hesabınız üzerinden gerçekleştirilen tüm işlemlerden siz sorumlusunuz.
+* Hesabınızın yetkisiz kullanımını fark ederseniz derhal bize bildirmeniz gerekir.
+* Bu Şartları ihlal eden hesapları sonlandırma hakkını saklı tutarız.
+
+---
+
+## 5. Ücretsiz Sürüm ve Premium Abonelik
+
+### 5.1 Ücretsiz Sürüm
+
+Ücretsiz hesaplar; yapay zekâ içerikleri, tokenlar, proje hakları ve uygulamada belirtilen diğer özelliklere sınırlı erişim sağlar.
+
+### 5.2 Premium Abonelik
+
+Premium aboneler daha fazla proje hakkına ve özel özelliklere erişim kazanır.
+
+Abonelik ücretleri Apple App Store veya Google Play Store üzerinden tahsil edilir ve ilgili mağazaların şartlarına tabidir.
+
+### 5.3 Token Satın Alımları
+
+Uygulama içi token satın alımları yalnızca Apple App Store veya Google Play Store üzerinden gerçekleştirilir.
+
+İade işlemleri, ilgili mağazanın iade politikalarına tabidir.
+
+Doğrudan iade işlemi gerçekleştirmeyiz.
+
+### 5.4 Abonelik İptali
+
+Premium aboneliğinizi istediğiniz zaman App Store veya Google Play Store hesap ayarlarınızdan iptal edebilirsiniz.
+
+İptal işlemi mevcut faturalandırma döneminin sonunda yürürlüğe girer.
+
+---
+
+## 6. Yapay Zekâ Tarafından Üretilen İçerikler
+
+* Uygulama, OpenAI API'sini ve diğer üçüncü taraf yapay zekâ sağlayıcılarını kullanarak quizler, çalışma planları, özetler, hafıza kartları, öneriler ve diğer eğitim içeriklerini üretir.
+* Yapay zekâ tarafından oluşturulan içerikler yalnızca eğitim ve bilgilendirme amaçlıdır.
+* **Yapay zekâ tarafından üretilen içerikler hatalar, eksiklikler, yanlış bilgiler veya halüsinasyonlar içerebilir.**
+* Yapay zekâ çıktıları; tıbbi, hukuki, finansal, profesyonel, akademik sertifikasyon, güvenlik açısından kritik veya yüksek riskli kararlar için kullanılmamalıdır.
+* İçeriklere güvenmeden önce doğruluğunu bağımsız olarak doğrulamak sizin sorumluluğunuzdadır.
+* Yapay zekâ tarafından oluşturulan içeriklerin doğruluğunu, eksiksizliğini veya belirli bir amaca uygunluğunu garanti etmiyoruz.
+
+---
+
+## 7. Kabul Edilebilir Kullanım
+
+Aşağıdaki davranışlarda bulunmamayı kabul edersiniz:
+
+* Uygulamayı yasa dışı amaçlarla kullanmak.
+* Zararlı, hakaret içeren, nefret söylemi barındıran, iftira niteliğinde veya üçüncü taraf haklarını ihlal eden içerikler göndermek.
+* Uygulamanın kaynak kodunu tersine mühendislik yoluyla elde etmeye çalışmak.
+* Botlar veya otomatik sistemlerle uygulamaya erişmek.
+* Hesabınızı başkalarıyla paylaşmak veya kısıtlamaları aşmak amacıyla birden fazla hesap oluşturmak.
+* Token veya abonelik sistemini manipüle etmeye çalışmak.
+* Üçüncü taraf yapay zekâ sağlayıcılarının kullanım politikalarını ihlal eden içerikler üretmek.
+
+---
+
+## 8. Fikri Mülkiyet
+
+### 8.1 Uygulamaya Ait İçerikler
+
+Uygulamanın tasarımı, markası, yazılımı ve kullanıcı tarafından oluşturulmayan tüm içerikler MindMaster'a aittir ve ilgili fikri mülkiyet yasaları ile korunmaktadır.
+
+### 8.2 Kullanıcı İçerikleri
+
+Sağladığınız çalışma konuları ve girdiler üzerindeki mülkiyet hakkı sizde kalır.
+
+İçerik göndererek, yalnızca uygulama hizmetlerini sunabilmemiz amacıyla bu içerikleri işlemek için bize sınırlı ve münhasır olmayan bir kullanım izni vermiş olursunuz.
+
+### 8.3 Yapay Zekâ Çıktıları
+
+Girdilerinize dayalı olarak oluşturulan quizler ve çalışma materyalleri, kişisel ve ticari olmayan eğitim amaçlı kullanımınız için sunulur.
+
+---
+
+## 9. Gizlilik
+
+Uygulamayı kullanımınız ayrıca Gizlilik Politikamız tarafından düzenlenir. Gizlilik Politikası bu Şartların ayrılmaz bir parçasıdır.
+
+---
+
+## 10. Feragatname
+
+UYGULAMA "OLDUĞU GİBİ" VE "MEVCUT OLDUĞU ŞEKİLDE" SUNULMAKTADIR.
+
+SATILABİLİRLİK, BELİRLİ BİR AMACA UYGUNLUK VEYA İHLAL ETMEME DAHİL OLMAK ÜZERE AÇIK YA DA ZIMNİ HİÇBİR GARANTİ VERİLMEMEKTEDİR.
+
+UYGULAMANIN KESİNTİSİZ, HATASIZ VEYA ZARARLI YAZILIMLARDAN ARINDIRILMIŞ OLACAĞINI GARANTİ ETMİYORUZ.
+
+---
+
+## 11. Sorumluluğun Sınırlandırılması
+
+YASALARIN İZİN VERDİĞİ AZAMİ ÖLÇÜDE, MINDMASTER VE BAĞLI TARAFLARI; VERİ KAYBI, KÂR KAYBI VEYA DOLAYLI, ARIZİ, ÖZEL YA DA SONUÇSAL ZARARLARDAN SORUMLU TUTULAMAZ.
+
+TOPLAM SORUMLULUĞUMUZ, TALEPTEN ÖNCEKİ SON 12 AY İÇİNDE TARAFIMIZA ÖDEMİŞ OLDUĞUNUZ TUTARI AŞAMAZ.
+
+---
+
+## 12. Tazmin
+
+Uygulamayı kullanımınız veya bu Şartları ihlal etmeniz nedeniyle ortaya çıkabilecek talepler, zararlar, yükümlülükler ve masraflara karşı MindMaster'ı savunmayı ve zararlarını karşılamayı kabul edersiniz.
+
+---
+
+## 13. Hesabın Sonlandırılması
+
+Aşağıdaki durumlarda hesabınızı önceden bildirimde bulunmaksızın askıya alma veya sonlandırma hakkını saklı tutarız:
+
+* Bu Şartların ihlal edilmesi.
+* Diğer kullanıcılara, bize veya üçüncü taraflara zarar verilmesi.
+* Dolandırıcılık faaliyetleri yürütülmesi.
+
+Hesabınızı istediğiniz zaman:
+
+**Ayarlar → Tehlikeli Bölge → Tüm Verilerimi Sil**
+
+yoluyla silebilirsiniz.
+
+---
+
+## 14. Uygulanacak Hukuk
+
+Bu Şartlar, kanunlar ihtilafı kuralları dikkate alınmaksızın Türkiye Cumhuriyeti hukukuna tabidir.
+
+Bu Şartlardan veya uygulamanın kullanımından doğan uyuşmazlıklar, tüketici mevzuatının zorunlu hükümleri saklı kalmak kaydıyla İstanbul Mahkemeleri ve İcra Dairelerinin yetkisine tabidir.
+
+---
+
+## 15. İletişim
+
+Bu Şartlar hakkında sorularınız varsa bizimle iletişime geçebilirsiniz:
+
+E-posta: [zihinkocu.mm@gmail.com](mailto:zihinkocu.mm@gmail.com)
+
+---
+
+*Bu Kullanım Şartları Haziran 2026 itibarıyla yürürlüğe girmiştir.*
+
+
 # Terms of Service
 
 **MindMaster – AI Learning & Memorization Coach**
