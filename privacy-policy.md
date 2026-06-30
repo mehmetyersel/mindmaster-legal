@@ -60,7 +60,7 @@ Kişisel bilgilerinizi satmayız, kiralamayız veya ticari amaçlarla paylaşmay
 * **OpenAI dahil Yapay Zekâ İçerik Sağlayıcıları:** Çalışma konusu girdileriniz; quiz soruları, çalışma planları, özetler, hafıza kartları ve diğer öğrenme içeriklerini oluşturmak amacıyla OpenAI API'sine ve diğer üçüncü taraf yapay zekâ sağlayıcılarına gönderilebilir. Bu sağlayıcılar verileri kendi gizlilik politikalarına göre işler. Adınızı veya e-posta adresinizi yapay zekâ sağlayıcılarına göndermeyiz. Yapay zekâ tarafından üretilen içerikler hatalar, eksiklikler veya yanlış bilgiler içerebilir.
 * **Expo / Expo Push Notifications:** İsteğe bağlı çalışma hatırlatmalarını göndermek için Expo bildirim altyapısını kullanırız.
 * **RevenueCat:** Abonelik ve token satın alma işlemlerini yönetmek için RevenueCat kullanırız.
-* **Apple App Store / Google Play Store:** Uygulama içi ödeme işlemleri Apple ve Google tarafından gerçekleştirilir. Tam ödeme kartı bilgilerinize erişmeyiz.
+* **Platform Ödeme Sağlayıcısı:** Uygulama içi satın alma işlemleri yapılırken resmi uygulama içi ödeme sistemi tarafından güvenli şekilde işlenir. Tam ödeme kartı bilgilerinize erişmeyiz.
 
 ### 4.2 Yasal Gereklilikler
 
@@ -198,7 +198,7 @@ We do not sell, trade, or rent your personal information. We may share data with
 * **AI Content Providers, including OpenAI:** Your study topic inputs may be sent to OpenAI's API and may be processed by other third-party AI providers to generate quiz questions, study plans, summaries, memory cards, and other learning content. OpenAI processes this data under their own Privacy Policy. Other AI providers operate under their own policies. We do not send your name or email address to AI providers. AI-generated content may contain inaccuracies, omissions, or hallucinations.
 * **Expo / Expo Push Notifications:** We use Expo's notification infrastructure to deliver optional study reminders.
 * **RevenueCat:** We use RevenueCat for subscription and token purchase management.
-* **Apple App Store / Google Play Store:** Payment processing for in-app purchases is handled by Apple and Google. We do not receive your full payment card details.
+* **Platform Payment Provider:** In-app purchase payments are securely processed through your device's official in-app purchase system. We do not receive your full payment card details.
 
 ### 4.2 Legal Requirements
 
