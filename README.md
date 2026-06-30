@@ -24,7 +24,7 @@ Create personalized study plans, practice with AI-generated quizzes, review impo
 
 If you need assistance, have questions, or would like to report an issue, please contact:
 
-📧 **Support Email:** **zihinkocu.mm@gmail.com**
+📧 *Support Email:* **zihinkocu.mm@gmail.com**
 
 ---
 
@@ -42,7 +42,6 @@ MindMaster AI is currently under review and will soon be available on:
 
 🍎 Apple App Store
 
-🤖 Google Play
 
 ---
 
