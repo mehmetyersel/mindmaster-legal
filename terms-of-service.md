@@ -54,19 +54,19 @@ Uygulamayı kullanarak bu şartı karşıladığınızı beyan etmiş olursunuz.
 
 Premium aboneler daha fazla proje hakkına ve özel özelliklere erişim kazanır.
 
-Abonelik ücretleri Apple App Store veya Google Play Store üzerinden tahsil edilir ve ilgili mağazaların şartlarına tabidir.
+Abonelik ücretleri cihazınızın resmi uygulama içi satın alma sistemi üzerinden güvenli şekilde işlenir ve ilgili platformun kullanım şartlarına tabidir.
 
 ### 5.3 Token Satın Alımları
 
-Uygulama içi token satın alımları yalnızca Apple App Store veya Google Play Store üzerinden gerçekleştirilir.
+Uygulama içi token satın alımları cihazınızın resmi uygulama içi satın alma sistemi üzerinden güvenli şekilde gerçekleştirilir.
 
-İade işlemleri, ilgili mağazanın iade politikalarına tabidir.
+İade uygunluğu, satın alma işleminin gerçekleştirildiği platformun politikalarına göre belirlenir.
 
 Doğrudan iade işlemi gerçekleştirmeyiz.
 
 ### 5.4 Abonelik İptali
 
-Premium aboneliğinizi istediğiniz zaman App Store veya Google Play Store hesap ayarlarınızdan iptal edebilirsiniz.
+Premium aboneliğinizi istediğiniz zaman cihazınızın abonelik yönetimi ayarları üzerinden iptal edebilirsiniz.
 
 İptal işlemi mevcut faturalandırma döneminin sonunda yürürlüğe girer.
 
@@ -226,15 +226,15 @@ Free accounts include limited access to AI-generated content, tokens, project sl
 
 ### 5.2 Premium Subscription
 
-Premium subscribers receive expanded project slots and access to exclusive features. Subscription fees are charged through the Apple App Store or Google Play Store and are subject to their respective terms.
+Premium subscribers receive expanded project slots and access to exclusive features. Subscription fees are securely processed through your device's official in-app purchase system and are subject to the applicable platform terms.
 
 ### 5.3 Token Purchases
 
-All in-app token purchases are processed exclusively through the Apple App Store or Google Play Store. Refunds, if applicable, are governed by the refund policies of Apple or Google respectively. We do not process or issue refunds directly.
+All in-app token purchases are securely processed through your device's official in-app purchase system. Refund eligibility is determined by the platform through which the purchase was made. We do not process or issue refunds directly.
 
 ### 5.4 Subscription Cancellation
 
-You may cancel your Premium subscription at any time through the App Store or Google Play Store account settings. Cancellation takes effect at the end of the current billing period.
+You may cancel your Premium subscription at any time through your device's subscription management settings. Cancellation takes effect at the end of the current billing period.
 
 ---
 
